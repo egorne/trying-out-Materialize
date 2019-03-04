@@ -1,0 +1,23 @@
+{
+  "name": "trying-out-materialize",
+  "version": "1.0.0",
+  "description": "exploring the Materialize framework",
+  "main": "index.js",
+  "dependencies": {
+    "materialize-css": "^1.0.0-rc.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egorne/trying-out-Materialize.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egorne/trying-out-Materialize/issues"
+  },
+  "homepage": "https://github.com/egorne/trying-out-Materialize#readme"
+}
